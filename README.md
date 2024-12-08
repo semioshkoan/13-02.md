@@ -13,9 +13,9 @@
 
 ### Решение 1
 
-(https://github.com/semioshkoan/13-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_102.png)
+![image](https://github.com/semioshkoan/13-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_102.png)
 
-(https://github.com/semioshkoan/13-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_104.png)
+![image](https://github.com/semioshkoan/13-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_104.png)
 
 ### Задание 2
 
@@ -27,7 +27,8 @@
 
 ### Решение 2
 
-(https://github.com/semioshkoan/13-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_105.png)
+![image](https://github.com/semioshkoan/13-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_105.png)
 
-(https://github.com/semioshkoan/13-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_106.png)
+![image](https://github.com/semioshkoan/13-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_106.png)
 
+![image](https://github.com/semioshkoan/13-02.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_108.png)
